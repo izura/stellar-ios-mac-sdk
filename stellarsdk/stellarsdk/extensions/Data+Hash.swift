@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import CSwiftyCommonCrypto
+import CommonCrypto
 
 public extension String {
     var sha256Hash: Data {
